@@ -1,0 +1,9 @@
+name: automation-scripts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pynput=1.7.6
+  - pyperclip=1.8.2
+  - python=3.12.2
+
